@@ -42,7 +42,7 @@ This tool can currently perform below tasks :
   ```shell
   pip install -r requirements.txt
   ```
-3. Multiple threat intelligence platforms' APIs are being utilized in this script, hence API keys from these platforms are required to confirm full functionality of script. Create accounts using below links and capture the API Keys from the same. Further details on feeding keys to code will be discussed in [How to Use](https://github.com/AzharAnwar9/Security-Event-Analysis-Automation-Tool#how-to-use) section of README.md.
+3. Multiple threat intelligence platforms' APIs are being utilized in this script, hence API keys from these platforms are required to confirm full functionality of script. Create accounts using below links and capture the API Keys from the same.
   - [Virustotal API Key](https://developers.virustotal.com/reference)
   - [Abuse IP DB API Key](https://www.abuseipdb.com/api)
   - [Alienvault OTXv2 API Key](https://otx.alienvault.com/api)
